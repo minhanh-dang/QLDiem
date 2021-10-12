@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dang Minh Anh/CLionProjects/QLDiem/Student.cpp
+Student.h
+C:/Users/Dang Minh Anh/CLionProjects/QLDiem/Student.h
+iostream
+-
+istream
+-
+sstream
+-
+fstream
+-
+regex
+-
+
+C:/Users/Dang Minh Anh/CLionProjects/QLDiem/Student.h
+Student.h
+C:/Users/Dang Minh Anh/CLionProjects/QLDiem/Student.h
+iostream
+-
+istream
+-
+sstream
+-
+fstream
+-
+stdlib.h
+-
+regex
+-
+
